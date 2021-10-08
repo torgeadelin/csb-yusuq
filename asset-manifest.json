@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://.github.io/csb-yusuq/static/js/main.64095cac.chunk.js",
+    "main.js.map": "https://.github.io/csb-yusuq/static/js/main.64095cac.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-yusuq/static/js/runtime-main.4e409b89.js",
+    "runtime-main.js.map": "https://.github.io/csb-yusuq/static/js/runtime-main.4e409b89.js.map",
+    "static/js/2.b8e28b1d.chunk.js": "https://.github.io/csb-yusuq/static/js/2.b8e28b1d.chunk.js",
+    "static/js/2.b8e28b1d.chunk.js.map": "https://.github.io/csb-yusuq/static/js/2.b8e28b1d.chunk.js.map",
+    "index.html": "https://.github.io/csb-yusuq/index.html",
+    "precache-manifest.b886c9dbe6ac758444bd7b7bf1320bff.js": "https://.github.io/csb-yusuq/precache-manifest.b886c9dbe6ac758444bd7b7bf1320bff.js",
+    "service-worker.js": "https://.github.io/csb-yusuq/service-worker.js",
+    "static/js/2.b8e28b1d.chunk.js.LICENSE": "https://.github.io/csb-yusuq/static/js/2.b8e28b1d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e409b89.js",
+    "static/js/2.b8e28b1d.chunk.js",
+    "static/js/main.64095cac.chunk.js"
+  ]
+}
